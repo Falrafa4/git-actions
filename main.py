@@ -2,6 +2,7 @@
 Simple greeting functions.
 """
 
+
 def hello():
     """Print a greeting message."""
     print("hi")
